@@ -8,7 +8,9 @@
 
 2.利用Ｇｏｏｇｌｅ試算表　串接ｓｈｅｅｔＤＢ後台　ＡＰＩ　
 
+https://sheetdb.io/?source=post_page---------------------------
 
+https://www.google.com.tw/intl/zh-TW/sheets/about/
 
 
 
